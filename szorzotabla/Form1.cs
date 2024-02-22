@@ -11,9 +11,9 @@ namespace szorzotabla
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            for (int row = 0; row < 10; row++)
+            for (int row = 1; row <= 10; row++)
             {
-                for (int col = 0; col < 10; col++)
+                for (int col = 1; col <= 10; col++)
                 {
                     Button button = new /*Button*/();
                     button.Text = (row * col).ToString();

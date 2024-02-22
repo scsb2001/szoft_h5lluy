@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szorzotabla", "szorzotabla\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibo", "Fibo\Fibo.csproj", "{DD72B268-3E6E-456B-8A96-61836E2D327A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pascal_tri", "pascal_tri\pascal_tri.csproj", "{98215108-376F-492C-9FCB-970D99913AA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD72B268-3E6E-456B-8A96-61836E2D327A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD72B268-3E6E-456B-8A96-61836E2D327A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD72B268-3E6E-456B-8A96-61836E2D327A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98215108-376F-492C-9FCB-970D99913AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98215108-376F-492C-9FCB-970D99913AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98215108-376F-492C-9FCB-970D99913AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98215108-376F-492C-9FCB-970D99913AA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
