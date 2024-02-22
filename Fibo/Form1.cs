@@ -11,9 +11,9 @@ namespace Fibo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            List<Row<int, int>> fiboNumbers = new List<Row<int, int>>();
-            for (int i = 0; i < 10; i++) fiboNumbers.Add(new Row<int, int>(i, Fibo(i)));
-            dataGridView1.DataSource = fiboNumbers;
+            List<Row<int, int>> dict = new List<Row<int, int>>();
+            for (int i = 0; i < 10; i++) dict.Add(new Row<int, int>(i, Fibo(i)));
+            dataGridView1.DataSource = dict;
         }
 
         private int Fibo(int num)
