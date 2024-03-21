@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibo", "Fibo\Fibo.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pascal_tri", "pascal_tri\pascal_tri.csproj", "{98215108-376F-492C-9FCB-970D99913AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3", "W3\W3.csproj", "{88B644B3-665C-4F34-83E8-ADC1CA271848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W3", "W3\W3.csproj", "{88B644B3-665C-4F34-83E8-ADC1CA271848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W6", "W6\W6.csproj", "{06210BB8-5FE0-41DD-BD0A-F59FFF701C0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{88B644B3-665C-4F34-83E8-ADC1CA271848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B644B3-665C-4F34-83E8-ADC1CA271848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B644B3-665C-4F34-83E8-ADC1CA271848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06210BB8-5FE0-41DD-BD0A-F59FFF701C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06210BB8-5FE0-41DD-BD0A-F59FFF701C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06210BB8-5FE0-41DD-BD0A-F59FFF701C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06210BB8-5FE0-41DD-BD0A-F59FFF701C0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
